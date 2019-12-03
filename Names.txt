@@ -1,0 +1,16 @@
+Bart 0
+Bart 0
+Homer 0
+George 0
+Fred 1
+Wilma 1
+Lisa 2
+Maggie 2
+Jane 2
+Elroy 2
+Judy 2
+Marge 3
+Barney 3
+Shaggy 3
+Scooby 3
+Velma 3
